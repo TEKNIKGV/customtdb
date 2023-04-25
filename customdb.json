@@ -1,0 +1,16 @@
+{
+    "05517BCA5C830000": {
+        "id": "05517BCA5C830000",
+        "iconUrl": "https://media.vandal.net/m/44218/locoroco-remastered-201759154218_1.jpg",
+        "name": "LocoRoco [PSP]",
+        "region": "US",
+        "description": "retroarch forwarder"
+    },
+    "06400D2114C72000": {
+        "id": "06400D2114C72000",
+        "iconUrl": "https://static.wiidatabase.de/RetroArch-Switch.jpg",
+        "name": "Retroarch",
+        "region": "US",
+        "description": "retroarch forwarder"
+   }
+}
